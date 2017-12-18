@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512726919 source:c:\users\fabie\desktop\arithmetiqueh\arithmetiqueh.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
